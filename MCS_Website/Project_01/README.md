@@ -1,3 +1,4 @@
 # Its a cleaning estimate Calculator
 
-## [Click here](https://ikatutu-mcs.github.io/mcs) to visit the site
+## <a href="https://ikatutu-mcs.github.io/mcs" target="_blank">Click here</a> to visit the site
+
